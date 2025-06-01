@@ -119,7 +119,7 @@ export default function Portfolio() {
 
       <Section title="About Me" color="indigo" content={<p className="text-gray-300">{data.about}</p>} />
 
-      <Section title="Experience" color="blue" content={
+      <Section title="Experience" color="white" content={
         <div className="space-y-6">
           {data.experienceDetails.map((job, idx) => (
             <div key={idx} className="bg-gray-800 border border-blue-600 p-5 rounded-lg shadow-md">
@@ -133,7 +133,7 @@ export default function Portfolio() {
         </div>
       } />
 
-      <Section title="Skills" color="yellow" content={
+      <Section title="Skills" color="white" content={
         <div className="flex flex-wrap gap-6">
           {data.skills.map((skill, idx) => (
             <span key={idx} className="bg-yellow text-white px-4 py-2 rounded-full text-sm shadow-md shadow-yellow-500">{skill}</span>
@@ -182,7 +182,7 @@ export default function Portfolio() {
         </div>
       } />
 
-      <Section title="Achievements" color="yellow" content={
+      <Section title="Achievements" color="white" content={
         <div className="space-y-6">
           {data.achievements.map((ach, idx) => (
             <div key={idx} className="bg-gray-800 border border-yellow-600 p-5 rounded-lg shadow-md">
