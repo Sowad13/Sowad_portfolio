@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Sowad_portfolio/static/css/main.3aca2eca.css",
-    "main.js": "/Sowad_portfolio/static/js/main.6b96ebf2.js",
+    "main.js": "/Sowad_portfolio/static/js/main.52215618.js",
     "static/js/453.1407b060.chunk.js": "/Sowad_portfolio/static/js/453.1407b060.chunk.js",
     "static/media/profile.jpg": "/Sowad_portfolio/static/media/profile.dd444531aa0160e3d76f.jpg",
     "index.html": "/Sowad_portfolio/index.html",
     "main.3aca2eca.css.map": "/Sowad_portfolio/static/css/main.3aca2eca.css.map",
-    "main.6b96ebf2.js.map": "/Sowad_portfolio/static/js/main.6b96ebf2.js.map",
+    "main.52215618.js.map": "/Sowad_portfolio/static/js/main.52215618.js.map",
     "453.1407b060.chunk.js.map": "/Sowad_portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3aca2eca.css",
-    "static/js/main.6b96ebf2.js"
+    "static/js/main.52215618.js"
   ]
 }
